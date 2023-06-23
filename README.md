@@ -6,7 +6,7 @@ A minimal website build using Flask, Html & Bootstrap, where you can markmyour t
 
 ## Preview:
 
-![alt text](https://github.com/[MRINMOY662]/[Todo_App]/assets/blob/[main]/assets/preview.png?raw=true)
+![alt text](https://github.com/MRINMOY662/Todo_App/blob/main/assets/preview.png)
 
 ## Installation:
 
