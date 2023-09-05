@@ -2,7 +2,7 @@
 
 A minimal website build using Flask, Html & Bootstrap, where you can markmyour to-do list. If you like it give it a ⭐.
 
-### Note: This project is in developement.
+### Note: This project is under developement.
 
 ## Preview:
 
